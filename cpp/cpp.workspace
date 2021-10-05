@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="cpp" Database="" Version="10000">
+  <VirtualDirectory Name="section20">
+    <VirtualDirectory Name="challengeSolution2">
+      <Project Name="Challenge_2_Solution" Path="../Section20/Challenge_2_Solution/Challenge_2_Solution.project" Active="No"/>
+    </VirtualDirectory>
+    <Project Name="Challenge_3_Solution" Path="../Section20/Challenge_3_Solution/Challenge_3_Solution.project" Active="No"/>
+    <Project Name="Challenge_4_Solution" Path="../Section20/Challenge_4_Solution/Challenge_4_Solution.project" Active="Yes"/>
+  </VirtualDirectory>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Challenge_2_Solution" ConfigName="Debug"/>
+      <Project Name="Challenge_3_Solution" ConfigName="Debug"/>
+      <Project Name="Challenge_4_Solution" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Challenge_2_Solution" ConfigName="Release"/>
+      <Project Name="Challenge_3_Solution" ConfigName="Release"/>
+      <Project Name="Challenge_4_Solution" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

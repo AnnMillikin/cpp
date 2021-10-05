@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section11" Database="" Version="10.0.0">
+  <Project Name="Math" Path="Math/Math.project" Active="No"/>
+  <Project Name="Random" Path="Random/Random.project" Active="No"/>
+  <Project Name="FunctionDefinitions" Path="FunctionDefinitions/FunctionDefinitions.project" Active="No"/>
+  <Project Name="FunctionPrototypes" Path="FunctionPrototypes/FunctionPrototypes.project" Active="No"/>
+  <Project Name="FunctionParameters" Path="FunctionParamters/FunctionParamters.project" Active="No"/>
+  <Project Name="DefaultArguments" Path="DefaultArguments/DefaultArguments.project" Active="No"/>
+  <Project Name="FunctionOverloading" Path="FunctionOverloading/FunctionOverloading.project" Active="No"/>
+  <Project Name="ArraysAndFunctions" Path="ArraysAndFunctions/ArraysAndFunctions.project" Active="No"/>
+  <Project Name="PassByReference" Path="PassByReference/PassByReference.project" Active="No"/>
+  <Project Name="ScopeExample" Path="ScopeExample/ScopeExample.project" Active="No"/>
+  <Project Name="Factorial" Path="Factorial/Factorial.project" Active="No"/>
+  <Project Name="Fibonacci" Path="Fibonacci/Fibonacci.project" Active="No"/>
+  <Project Name="Section14Challenge2" Path="Challenge/Challenge.project" Active="No"/>
+  <Project Name="ChallengeSolution" Path="ChallengeSolution/ChallengeSolution.project" Active="No"/>
+  <Project Name="HowFunctionCallsWork" Path="HowFunctionCallsWork/HowFunctionCallsWork.project" Active="No"/>
+  <Project Name="dereferencePointers" Path="dereferencePointers/dereferencePointers.project" Active="No"/>
+  <Project Name="Section12CodingChallenge" Path="Section12CodingChallenge/Section12CodingChallenge.project" Active="No"/>
+  <Project Name="Section14CopyAssignment" Path="Section14CopyAssignment/Section14CopyAssignment.project" Active="No"/>
+  <VirtualDirectory Name="Section13">
+    <Project Name="Section11" Path="Section11/Section11.project" Active="No"/>
+  </VirtualDirectory>
+  <Project Name="Section13ChallengeTry2" Path="Section13ChallengeTry2/Section13ChallengeTry2.project" Active="No"/>
+  <VirtualDirectory Name="Section14">
+    <Project Name="Mystring-move-assignment" Path="../../Downloads/Section-14-Operator-Overloading-Source-code/Section14/Mystring-move-assignment/Mystring-move-assignment.project" Active="No"/>
+    <Project Name="Mystring-operator-methods" Path="../../Downloads/Section-14-Operator-Overloading-Source-code/Section14/Mystring-operators/Mystring-operators.project" Active="No"/>
+    <Project Name="Mystring-operator-functions" Path="../../Downloads/Section-14-Operator-Overloading-Source-code/Section14/Mystring-operator-functions/Mystring-operator-functions.project" Active="No"/>
+    <Project Name="Mystring-insertion-extraction" Path="../../Downloads/Section-14-Operator-Overloading-Source-code/Section14/Mystring-insertion-extraction/Mystring-insertion-extraction.project" Active="No"/>
+    <Project Name="Challenge" Path="../../Downloads/Section-14-Operator-Overloading-Source-code/Section14/Challenge/Challenge.project" Active="No"/>
+    <VirtualDirectory Name="section14Challenge">
+      <Project Name="Challenge" Path="../../Downloads/Section-14-Operator-Overloading-Source-code/Section14/Challenge/Challenge.project" Active="No"/>
+      <Project Name="Challenge" Path="../../Downloads/Section-14-Operator-Overloading-Source-code/Section14/Challenge/Challenge.project" Active="No"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="challenge2">
+      <Project Name="Challenge" Path="../../Downloads/Section-14-Operator-Overloading-Source-code/Section14/Challenge/Challenge.project" Active="No"/>
+    </VirtualDirectory>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Section15">
+    <Project Name="BaseClassInitialization" Path="../../Downloads/Section-15-Inheritance-Source-code/Section15/BaseClassInitialization/BaseClassInitialization.project" Active="No"/>
+    <Project Name="ConstructorsAndDestructors" Path="../../Downloads/Section-15-Inheritance-Source-code/Section15/ConstructorsAndDestructors/ConstructorsAndDestructors.project" Active="No"/>
+    <Project Name="BaseClassInitialization" Path="../../Downloads/Section-15-Inheritance-Source-code/Section15/BaseClassInitialization/BaseClassInitialization.project" Active="No"/>
+    <Project Name="CopyConstructorAssignmentOperator" Path="../../Downloads/Section-15-Inheritance-Source-code/Section15/CopyConstructorAssignmentOperator/CopyConstructorAssignmentOperator.project" Active="No"/>
+    <Project Name="RedefiningBaseClassMethods" Path="../../Downloads/Section-15-Inheritance-Source-code/Section15/RedefiningBaseClassMethods/RedefiningBaseClassMethods.project" Active="No"/>
+    <Project Name="Challenge" Path="../../Downloads/Section-15-Inheritance-Source-code/Section15/Challenge/Challenge.project" Active="No"/>
+    <Project Name="Challenge" Path="../../Downloads/Section-15-Inheritance-Source-code/Section15/Challenge/Challenge.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Section16">
+    <Project Name="TheProblem" Path="../../Downloads/Section-16-Polymorphism-Source-code/Section16/TheProblem/TheProblem.project" Active="No"/>
+    <Project Name="BaseClassPointers" Path="../../Downloads/Section-16-Polymorphism-Source-code/Section16/BaseClassPointers/BaseClassPointers.project" Active="No"/>
+    <Project Name="VirtualDestructors" Path="../../Downloads/Section-16-Polymorphism-Source-code/Section16/VirtualDestructors/VirtualDestructors.project" Active="No"/>
+    <Project Name="VirtualFunctions" Path="../../Downloads/Section-16-Polymorphism-Source-code/Section16/VirtualFunctions/VirtualFunctions.project" Active="No"/>
+    <Project Name="UsingOverride" Path="../../Downloads/Section-16-Polymorphism-Source-code/Section16/UsingOverride/UsingOverride.project" Active="No"/>
+    <Project Name="UsingFinal" Path="../../Downloads/Section-16-Polymorphism-Source-code/Section16/UsingFinal/UsingFinal.project" Active="No"/>
+    <Project Name="BaseClassReferences" Path="../../Downloads/Section-16-Polymorphism-Source-code/Section16/BaseClassReferences/BaseClassReferences.project" Active="No"/>
+    <Project Name="PureVirtualFunctions" Path="../../Downloads/Section-16-Polymorphism-Source-code/Section16/PureVirtualFunctions/PureVirtualFunctions.project" Active="No"/>
+    <Project Name="Interfaces-Complete" Path="../../Downloads/Section-16-Polymorphism-Source-code/Section16/Interfaces-Complete/Interfaces-Complete.project" Active="No"/>
+    <Project Name="Challenge" Path="../../Downloads/Section-16-Polymorphism-Source-code/Section16/Challenge/Challenge.project" Active="No"/>
+    <Project Name="ChallengeSolution" Path="../../Downloads/Section-16-Polymorphism-Source-code/Section16/ChallengeSolution/ChallengeSolution.project" Active="No"/>
+    <Project Name="Challenge" Path="../../Downloads/Section-16-Polymorphism-Source-code/Section16/Challenge/Challenge.project" Active="No"/>
+    <Project Name="Challenge" Path="../../Downloads/Section-16-Polymorphism-Source-code/Section16/Challenge/Challenge.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Section17">
+    <Project Name="UniquePointers" Path="../Section17/UniquePointers/UniquePointers.project" Active="No"/>
+    <Project Name="SharedPointers" Path="../Section17/SharedPointers/SharedPointers.project" Active="No"/>
+    <Project Name="WeakPointers" Path="../Section17/WeakPointers/WeakPointers.project" Active="No"/>
+    <Project Name="CustomDeleters" Path="../Section17/CustomDeleters/CustomDeleters.project" Active="No"/>
+    <Project Name="Challenge-1" Path="../Section17/Challenge/Challenge.project" Active="No"/>
+    <Project Name="ChallengeSolution-1" Path="../Section17/ChallengeSolution/ChallengeSolution.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Section18">
+    <Project Name="MPGFunctionExceptionClasses" Path="../Section18/MilesPerGallonFunctionExceptionClasses/MilesPerGallonFunctionExceptionClasses.project" Active="No"/>
+    <Project Name="ConstructorException" Path="../Section18/ConstructorException/ConstructorException.project" Active="No"/>
+    <Project Name="Challenge" Path="../Section18/Challenge/Challenge.project" Active="No"/>
+    <Project Name="ChallengeSolution" Path="../Section18/ChallengeSolution/ChallengeSolution.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Section19">
+    <Project Name="Manip_Boolean" Path="../Section19/Manip_Boolean/Manip_Boolean.project" Active="No"/>
+    <Project Name="Manip_Floating" Path="../Section19/Manip_Floating/Manip_Floating.project" Active="No"/>
+    <Project Name="Manip_Fields" Path="../Section19/Manip_Fields/Manip_Fields.project" Active="No"/>
+    <Project Name="Challenge_1" Path="../Section19/Challenge_1/Challenge_1.project" Active="No"/>
+    <Project Name="Challenge_1_Solution" Path="../Section19/Challenge_1_Solution/Challenge_1_Solution.project" Active="No"/>
+    <Project Name="ReadFile_1" Path="../Section19/ReadFile_1/ReadFile_1.project" Active="No"/>
+    <Project Name="ReadFile_2" Path="../Section19/ReadFile_2/ReadFile_2.project" Active="No"/>
+    <Project Name="ReadFile_3" Path="../Section19/ReadFile_3/ReadFile_3.project" Active="No"/>
+    <Project Name="ReadFile_4" Path="../Section19/ReadFile_4/ReadFile_4.project" Active="No"/>
+    <Project Name="junk" Path="junk/junk.project" Active="No"/>
+    <Project Name="Challenge_2" Path="../Section19/Challenge_2/Challenge_2.project" Active="No"/>
+    <Project Name="Challenge_2_Solution" Path="../Section19/Challenge_2_Solution/Challenge_2_Solution.project" Active="No"/>
+    <Project Name="Challenge_3" Path="../Section19/Challenge_3/Challenge_3.project" Active="No"/>
+    <Project Name="Challenge_3_Solution" Path="../Section19/Challenge_3_Solution/Challenge_3_Solution.project" Active="No"/>
+    <Project Name="Challenge_4" Path="../Section19/Challenge_4/Challenge_4.project" Active="No"/>
+    <Project Name="StringStream" Path="../Section19/StringStream/StringStream.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Section20">
+    <Project Name="Challenge_1" Path="../Section20/Challenge_1/Challenge_1.project" Active="No"/>
+    <Project Name="FunctionTemplates" Path="../Section20/FunctionTemplates/FunctionTemplates.project" Active="No"/>
+    <Project Name="ClassTemplates" Path="../Section20/ClassTemplates/ClassTemplates.project" Active="No"/>
+    <Project Name="Array" Path="../Section20/Array/Array.project" Active="No"/>
+    <Project Name="Iterators" Path="../Section20/Iterators/Iterators.project" Active="No"/>
+    <Project Name="Algorithms" Path="../Section20/Algorithms/Algorithms.project" Active="No"/>
+    <Project Name="Vector" Path="../Section20/Vector/Vector.project" Active="No"/>
+    <Project Name="Deque" Path="../Section20/Deque/Deque.project" Active="No"/>
+    <Project Name="List" Path="../Section20/List/List.project" Active="No"/>
+    <Project Name="Challenge_2" Path="../Section20/Challenge_2/Challenge_2.project" Active="No"/>
+    <Project Name="Set" Path="../Section20/Set/Set.project" Active="No"/>
+    <Project Name="Challenge_3" Path="../Section20/Challenge_3/Challenge_3.project" Active="No"/>
+    <Project Name="Stack" Path="../Section20/Stack/Stack.project" Active="No"/>
+    <Project Name="Challenge_4" Path="../Section20/Challenge_4/Challenge_4.project" Active="No"/>
+    <Project Name="Queue" Path="../Section20/Queue/Queue.project" Active="No"/>
+    <Project Name="Challenge_1_Solution" Path="../Section20/Challenge_1_Solution/Challenge_1_Solution.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Section21">
+    <Project Name="FunctionObjects" Path="../Section21/FunctionObjects/FunctionObjects.project" Active="Yes"/>
+    <Project Name="StatefulLambdas" Path="../Section21/StatefulLambdas/StatefulLambdas.project" Active="No"/>
+    <Project Name="StatelessLambda" Path="../Section21/StatelessLambda/StatelessLambda.project" Active="No"/>
+    <Project Name="STL_Lambdas" Path="../Section21/STL_Lambdas/STL_Lambdas.project" Active="No"/>
+  </VirtualDirectory>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Math" ConfigName="Debug"/>
+      <Project Name="Random" ConfigName="Debug"/>
+      <Project Name="FunctionDefinitions" ConfigName="Debug"/>
+      <Project Name="FunctionPrototypes" ConfigName="Debug"/>
+      <Project Name="FunctionParameters" ConfigName="Debug"/>
+      <Project Name="DefaultArguments" ConfigName="Debug"/>
+      <Project Name="FunctionOverloading" ConfigName="Debug"/>
+      <Project Name="ArraysAndFunctions" ConfigName="Debug"/>
+      <Project Name="PassByReference" ConfigName="Debug"/>
+      <Project Name="ScopeExample" ConfigName="Debug"/>
+      <Project Name="Factorial" ConfigName="Debug"/>
+      <Project Name="Fibonacci" ConfigName="Debug"/>
+      <Project Name="Section14Challenge2" ConfigName="Debug"/>
+      <Project Name="ChallengeSolution" ConfigName="Debug"/>
+      <Project Name="HowFunctionCallsWork" ConfigName="Debug"/>
+      <Project Name="dereferencePointers" ConfigName="Debug"/>
+      <Project Name="Section12CodingChallenge" ConfigName="Debug"/>
+      <Project Name="Section13Challenge" ConfigName="Debug"/>
+      <Project Name="ChallengeSolution" ConfigName="Debug"/>
+      <Project Name="Section14CopyAssignment" ConfigName="Debug"/>
+      <Project Name="ChallengeSolution" ConfigName="Debug"/>
+      <Project Name="section13Challenge" ConfigName="Debug"/>
+      <Project Name="Section13ChallengeTry2" ConfigName="Debug"/>
+      <Project Name="Mystring-move-assignment" ConfigName="Debug"/>
+      <Project Name="Mystring-operator-methods" ConfigName="Debug"/>
+      <Project Name="Mystring-operator-functions" ConfigName="Debug"/>
+      <Project Name="Mystring-insertion-extraction" ConfigName="Debug"/>
+      <Project Name="Section14Challenge2" ConfigName="Debug"/>
+      <Project Name="Section14Challenge2" ConfigName="Debug"/>
+      <Project Name="Section14Challenge2" ConfigName="Debug"/>
+      <Project Name="Section14Challenge2" ConfigName="Debug"/>
+      <Project Name="BaseClassInitialization" ConfigName="Debug"/>
+      <Project Name="ConstructorsAndDestructors" ConfigName="Debug"/>
+      <Project Name="BaseClassInitialization" ConfigName="Debug"/>
+      <Project Name="CopyConstructorAssignmentOperator" ConfigName="Debug"/>
+      <Project Name="RedefiningBaseClassMethods" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
+      <Project Name="TheProblem" ConfigName="Debug"/>
+      <Project Name="BaseClassPointers" ConfigName="Debug"/>
+      <Project Name="VirtualDestructors" ConfigName="Debug"/>
+      <Project Name="VirtualFunctions" ConfigName="Debug"/>
+      <Project Name="UsingOverride" ConfigName="Debug"/>
+      <Project Name="UsingFinal" ConfigName="Debug"/>
+      <Project Name="BaseClassReferences" ConfigName="Debug"/>
+      <Project Name="PureVirtualFunctions" ConfigName="Debug"/>
+      <Project Name="Interfaces-Complete" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
+      <Project Name="ChallengeSolution" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
+      <Project Name="UniquePointers" ConfigName="Debug"/>
+      <Project Name="SharedPointers" ConfigName="Debug"/>
+      <Project Name="WeakPointers" ConfigName="Debug"/>
+      <Project Name="CustomDeleters" ConfigName="Debug"/>
+      <Project Name="Challenge-1" ConfigName="Debug"/>
+      <Project Name="ChallengeSolution-1" ConfigName="Debug"/>
+      <Project Name="MPGFunctionExceptionClasses" ConfigName="Debug"/>
+      <Project Name="ConstructorException" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
+      <Project Name="ChallengeSolution" ConfigName="Debug"/>
+      <Project Name="Manip_Boolean" ConfigName="Debug"/>
+      <Project Name="Manip_Floating" ConfigName="Debug"/>
+      <Project Name="Manip_Fields" ConfigName="Debug"/>
+      <Project Name="Challenge_1" ConfigName="Debug"/>
+      <Project Name="Challenge_1_Solution" ConfigName="Debug"/>
+      <Project Name="ReadFile_1" ConfigName="Debug"/>
+      <Project Name="ReadFile_2" ConfigName="Debug"/>
+      <Project Name="ReadFile_3" ConfigName="Debug"/>
+      <Project Name="ReadFile_4" ConfigName="Debug"/>
+      <Project Name="junk" ConfigName="Debug"/>
+      <Project Name="Challenge_2" ConfigName="Debug"/>
+      <Project Name="Challenge_2_Solution" ConfigName="Debug"/>
+      <Project Name="Challenge_3_Solution" ConfigName="Debug"/>
+      <Project Name="Challenge_4" ConfigName="Debug"/>
+      <Project Name="StringStream" ConfigName="Debug"/>
+      <Project Name="Challenge_1" ConfigName="Debug"/>
+      <Project Name="FunctionTemplates" ConfigName="Debug"/>
+      <Project Name="ClassTemplates" ConfigName="Debug"/>
+      <Project Name="Array" ConfigName="Debug"/>
+      <Project Name="Iterators" ConfigName="Debug"/>
+      <Project Name="Algorithms" ConfigName="Debug"/>
+      <Project Name="Vector" ConfigName="Debug"/>
+      <Project Name="Deque" ConfigName="Debug"/>
+      <Project Name="List" ConfigName="Debug"/>
+      <Project Name="Challenge_2" ConfigName="Debug"/>
+      <Project Name="Set" ConfigName="Debug"/>
+      <Project Name="Challenge_3" ConfigName="Debug"/>
+      <Project Name="Challenge_3" ConfigName="Debug"/>
+      <Project Name="Stack" ConfigName="Debug"/>
+      <Project Name="Challenge_4" ConfigName="Debug"/>
+      <Project Name="Queue" ConfigName="Debug"/>
+      <Project Name="Challenge_1_Solution" ConfigName="Debug"/>
+      <Project Name="FunctionObjects" ConfigName="Debug"/>
+      <Project Name="StatefulLambdas" ConfigName="Debug"/>
+      <Project Name="StatelessLambda" ConfigName="Debug"/>
+      <Project Name="STL_Lambdas" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Math" ConfigName="Release"/>
+      <Project Name="Random" ConfigName="Release"/>
+      <Project Name="FunctionDefinitions" ConfigName="Release"/>
+      <Project Name="FunctionPrototypes" ConfigName="Release"/>
+      <Project Name="FunctionParameters" ConfigName="Release"/>
+      <Project Name="DefaultArguments" ConfigName="Release"/>
+      <Project Name="FunctionOverloading" ConfigName="Release"/>
+      <Project Name="ArraysAndFunctions" ConfigName="Release"/>
+      <Project Name="PassByReference" ConfigName="Release"/>
+      <Project Name="ScopeExample" ConfigName="Release"/>
+      <Project Name="Factorial" ConfigName="Release"/>
+      <Project Name="Fibonacci" ConfigName="Release"/>
+      <Project Name="Section14Challenge2" ConfigName="Release"/>
+      <Project Name="ChallengeSolution" ConfigName="Release"/>
+      <Project Name="HowFunctionCallsWork" ConfigName="Release"/>
+      <Project Name="dereferencePointers" ConfigName="Release"/>
+      <Project Name="Section12CodingChallenge" ConfigName="Release"/>
+      <Project Name="Section13Challenge" ConfigName="Release"/>
+      <Project Name="ChallengeSolution" ConfigName="Release"/>
+      <Project Name="Section14CopyAssignment" ConfigName="Release"/>
+      <Project Name="ChallengeSolution" ConfigName="Release"/>
+      <Project Name="section13Challenge" ConfigName="Release"/>
+      <Project Name="Section13ChallengeTry2" ConfigName="Release"/>
+      <Project Name="Mystring-move-assignment" ConfigName="Release"/>
+      <Project Name="Mystring-operator-methods" ConfigName="Release"/>
+      <Project Name="Mystring-operator-functions" ConfigName="Release"/>
+      <Project Name="Mystring-insertion-extraction" ConfigName="Release"/>
+      <Project Name="Section14Challenge2" ConfigName="Release"/>
+      <Project Name="Section14Challenge2" ConfigName="Release"/>
+      <Project Name="Section14Challenge2" ConfigName="Release"/>
+      <Project Name="Section14Challenge2" ConfigName="Release"/>
+      <Project Name="BaseClassInitialization" ConfigName="Release"/>
+      <Project Name="ConstructorsAndDestructors" ConfigName="Release"/>
+      <Project Name="BaseClassInitialization" ConfigName="Release"/>
+      <Project Name="CopyConstructorAssignmentOperator" ConfigName="Release"/>
+      <Project Name="RedefiningBaseClassMethods" ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
+      <Project Name="TheProblem" ConfigName="Release"/>
+      <Project Name="BaseClassPointers" ConfigName="Release"/>
+      <Project Name="VirtualDestructors" ConfigName="Release"/>
+      <Project Name="VirtualFunctions" ConfigName="Release"/>
+      <Project Name="UsingOverride" ConfigName="Release"/>
+      <Project Name="UsingFinal" ConfigName="Release"/>
+      <Project Name="BaseClassReferences" ConfigName="Release"/>
+      <Project Name="PureVirtualFunctions" ConfigName="Release"/>
+      <Project Name="Interfaces-Complete" ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
+      <Project Name="ChallengeSolution" ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
+      <Project Name="UniquePointers" ConfigName="Release"/>
+      <Project Name="SharedPointers" ConfigName="Release"/>
+      <Project Name="WeakPointers" ConfigName="Release"/>
+      <Project Name="CustomDeleters" ConfigName="Release"/>
+      <Project Name="Challenge-1" ConfigName="Release"/>
+      <Project Name="ChallengeSolution-1" ConfigName="Release"/>
+      <Project Name="MPGFunctionExceptionClasses" ConfigName="Release"/>
+      <Project Name="ConstructorException" ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
+      <Project Name="ChallengeSolution" ConfigName="Release"/>
+      <Project Name="Manip_Boolean" ConfigName="Release"/>
+      <Project Name="Manip_Floating" ConfigName="Release"/>
+      <Project Name="Manip_Fields" ConfigName="Release"/>
+      <Project Name="Challenge_1" ConfigName="Release"/>
+      <Project Name="Challenge_1_Solution" ConfigName="Release"/>
+      <Project Name="ReadFile_1" ConfigName="Release"/>
+      <Project Name="ReadFile_2" ConfigName="Release"/>
+      <Project Name="ReadFile_3" ConfigName="Release"/>
+      <Project Name="ReadFile_4" ConfigName="Release"/>
+      <Project Name="junk" ConfigName="Release"/>
+      <Project Name="Challenge_2" ConfigName="Release"/>
+      <Project Name="Challenge_2_Solution" ConfigName="Release"/>
+      <Project Name="Challenge_3_Solution" ConfigName="Release"/>
+      <Project Name="Challenge_4" ConfigName="Release"/>
+      <Project Name="StringStream" ConfigName="Release"/>
+      <Project Name="Challenge_1" ConfigName="Release"/>
+      <Project Name="FunctionTemplates" ConfigName="Release"/>
+      <Project Name="ClassTemplates" ConfigName="Release"/>
+      <Project Name="Array" ConfigName="Release"/>
+      <Project Name="Iterators" ConfigName="Release"/>
+      <Project Name="Algorithms" ConfigName="Release"/>
+      <Project Name="Vector" ConfigName="Release"/>
+      <Project Name="Deque" ConfigName="Release"/>
+      <Project Name="List" ConfigName="Release"/>
+      <Project Name="Challenge_2" ConfigName="Release"/>
+      <Project Name="Set" ConfigName="Release"/>
+      <Project Name="Challenge_3" ConfigName="Release"/>
+      <Project Name="Challenge_3" ConfigName="Release"/>
+      <Project Name="Stack" ConfigName="Release"/>
+      <Project Name="Challenge_4" ConfigName="Release"/>
+      <Project Name="Queue" ConfigName="Release"/>
+      <Project Name="Challenge_1_Solution" ConfigName="Release"/>
+      <Project Name="FunctionObjects" ConfigName="Release"/>
+      <Project Name="StatefulLambdas" ConfigName="Release"/>
+      <Project Name="StatelessLambda" ConfigName="Release"/>
+      <Project Name="STL_Lambdas" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+  <VirtualDirectory Name="Section23"/>
+</CodeLite_Workspace>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section8" Database="" Version="10000">
+  <Project Name="StatementsAndOperatorsChallenge" Path="StatementsAndOperatorsChallenge/StatementsAndOperatorsChallenge.project" Active="No"/>
+  <Project Name="canYouDrive" Path="canYouDrive/canYouDrive.project" Active="No"/>
+  <Project Name="Switch" Path="Switch/Switch.project" Active="No"/>
+  <Project Name="WhileLoop" Path="WhileLoop/WhileLoop.project" Active="No"/>
+  <VirtualDirectory Name="Section9">
+    <Project Name="section9Challenge" Path="section9Challenge/section9Challenge.project" Active="No"/>
+  </VirtualDirectory>
+  <Project Name="misc" Path="misc/misc.project" Active="No"/>
+  <Project Name="workingWithStrings" Path="workingWithStrings/workingWithStrings.project" Active="No"/>
+  <Project Name="cppStringsExercise1" Path="cppStringsExercise1/cppStringsExercise1.project" Active="No"/>
+  <Project Name="cppStringExercise2SortingAlphabetically" Path="cppStringExercise2SortingAlphabetically/cppStringExercise2SortingAlphabetically.project" Active="No"/>
+  <Project Name="section10ChallengeSubstitutionCipher" Path="section10ChallengeSubstitutionCipher/section10ChallengeSubstitutionCipher.project" Active="No"/>
+  <Project Name="60MinPyramidChallenge" Path="60MinPyramidChallenge/60MinPyramidChallenge.project" Active="No"/>
+  <Project Name="DecrementForLoop" Path="DecrementForLoop/DecrementForLoop.project" Active="Yes"/>
+  <Project Name="MathFunction" Path="MathFunction/MathFunction.project" Active="No"/>
+  <Project Name="FunctionsAndProtypes" Path="FunctionsAndProtypes/FunctionsAndProtypes.project" Active="No"/>
+  <Project Name="FahrenheitCelcius" Path="FahrenheitCelcius/FahrenheitCelcius.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="StatementsAndOperatorsChallenge" ConfigName="Debug"/>
+      <Project Name="canYouDrive" ConfigName="Debug"/>
+      <Project Name="Switch" ConfigName="Debug"/>
+      <Project Name="WhileLoop" ConfigName="Debug"/>
+      <Project Name="section9Challenge" ConfigName="Debug"/>
+      <Project Name="misc" ConfigName="Debug"/>
+      <Project Name="workingWithStrings" ConfigName="Debug"/>
+      <Project Name="cppStringsExercise1" ConfigName="Debug"/>
+      <Project Name="cppStringExercise2SortingAlphabetically" ConfigName="Debug"/>
+      <Project Name="section10ChallengeSubstitutionCipher" ConfigName="Debug"/>
+      <Project Name="60MinPyramidChallenge" ConfigName="Debug"/>
+      <Project Name="DecrementForLoop" ConfigName="Debug"/>
+      <Project Name="MathFunction" ConfigName="Debug"/>
+      <Project Name="FunctionsAndProtypes" ConfigName="Debug"/>
+      <Project Name="FahrenheitCelcius" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="StatementsAndOperatorsChallenge" ConfigName="Release"/>
+      <Project Name="canYouDrive" ConfigName="Release"/>
+      <Project Name="Switch" ConfigName="Release"/>
+      <Project Name="WhileLoop" ConfigName="Release"/>
+      <Project Name="section9Challenge" ConfigName="Release"/>
+      <Project Name="misc" ConfigName="Release"/>
+      <Project Name="workingWithStrings" ConfigName="Release"/>
+      <Project Name="cppStringsExercise1" ConfigName="Release"/>
+      <Project Name="cppStringExercise2SortingAlphabetically" ConfigName="Release"/>
+      <Project Name="section10ChallengeSubstitutionCipher" ConfigName="Release"/>
+      <Project Name="60MinPyramidChallenge" ConfigName="Release"/>
+      <Project Name="DecrementForLoop" ConfigName="Release"/>
+      <Project Name="MathFunction" ConfigName="Release"/>
+      <Project Name="FunctionsAndProtypes" ConfigName="Release"/>
+      <Project Name="FahrenheitCelcius" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
